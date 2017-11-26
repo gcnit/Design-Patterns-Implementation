@@ -1,2 +1,2 @@
 # Design-Patterns-Implementation
-Implementations of Common Design Patterns
+Trying to learn Design Patterns through examples
